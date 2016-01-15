@@ -18,17 +18,9 @@
     "url": "https://github.com/nupic-community/nupic.visualizations/issues"
   },
   "engines": {
-    "node": "4.2.2"
+    "node": "0.12.7"
   },
-  "dependencies": {
-    "express": "~4.13.3",
-    "request": "~2.67.0",
-    "nconf": "~0.8.2",
-    "serve-favicon": "~2.3.0",
-    "errorhandler": "~1.4.2",
-    "morgan": "~1.6.1",
-    "compression": "~1.6.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "~1.6.5",
     "colors": "~1.1.0",
